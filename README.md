@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @matheusmorita
 - 🌱 I’m currently learning and working with blockchain development
-- 📫 How to reach me math.mor@hotmail.com
+- 📫 How to reach me matheus@blocklize.tech
 
 <div align="center">
   <a href="https://github.com/matheusmorita">
